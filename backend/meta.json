@@ -1,0 +1,1 @@
+{"class_names": ["Bacterial Blight", "Curly Virus", "Fusarium Wilt", "Healthy", "Powdery Mildew", "Target Spot"], "vocab": ["<pad>", "<start>", "<end>", "bacterial", "blight", "curly", "fusarium", "healthy", "mildew", "powdery", "spot", "target", "virus", "wilt"], "max_len": 4, "img_size": [224, 224]}
